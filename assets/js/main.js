@@ -12,6 +12,7 @@
 		$sidebar = $('#sidebar');
 
 	// Breakpoints.
+	
 		breakpoints({
 			xlarge:   [ '1281px',  '1680px' ],
 			large:    [ '981px',   '1280px' ],
